@@ -1,5 +1,8 @@
-print("This is a calculatorS")
+print("This is a basic calculator with basic operator")
 
+print("1. Enter the first number")
+print("1. Enter the second number")
+print("1. Enter the operator")
 num1 = int(input("First Number: "))
 num2 = int(input("Second Number: "))
 
